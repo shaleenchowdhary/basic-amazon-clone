@@ -4,3 +4,5 @@ A simple clone of Amazon's user interface, built with modern web technologies. T
 ## Technologies Used
 - **HTML5**: Markup for structuring content.
 - **CSS3**: Styling for layout and design.
+
+[Live Link Here](https://html-amazon.vercel.app/)
